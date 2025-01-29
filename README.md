@@ -1,2 +1,3 @@
 # First-Project
-My new project
+My new project 
+Author- Prithvi Chauhan
